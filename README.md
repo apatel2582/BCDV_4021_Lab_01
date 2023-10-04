@@ -1,3 +1,6 @@
+# BCDV_4021_Lab_01
+Lab 01 Create React App Basics
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
